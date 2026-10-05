@@ -2,7 +2,7 @@ Stadium Privacy Policy
 
 Effective date: 21 September 2026
 
-Stadium is a single-player club stadium simulator published by the app owner ("we"). This policy explains how the app handles information.
+Stadium is a single-player club stadium simulator published by the app owner sami29111999@gmail.com. This policy explains how the app handles information.
 
 No account, advertising, or analytics
 
@@ -17,6 +17,7 @@ Deletion and retention
 Because game data is kept on the device, you can remove it by clearing Stadium's app data or uninstalling the app. Uninstalling deletes the app's private storage according to Android's normal app-data rules. We do not retain a copy of your game data.
 
 Contact
+sami29111999@gmail.com
 
 For privacy questions, contact the app owner at [OWNER_EMAIL]. If you choose to contact us, we will receive the information you include in your message and use it to respond to your request.
 
