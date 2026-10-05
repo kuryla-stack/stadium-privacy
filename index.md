@@ -17,9 +17,8 @@ Deletion and retention
 Because game data is kept on the device, you can remove it by clearing Stadium's app data or uninstalling the app. Uninstalling deletes the app's private storage according to Android's normal app-data rules. We do not retain a copy of your game data.
 
 Contact
-sami29111999@gmail.com
 
-For privacy questions, contact the app owner at [OWNER_EMAIL]. If you choose to contact us, we will receive the information you include in your message and use it to respond to your request.
+For privacy questions, contact the app owner at sami29111999@gmail.com. If you choose to contact us, we will receive the information you include in your message and use it to respond to your request.
 
 Changes
 
