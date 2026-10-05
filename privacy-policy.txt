@@ -1,0 +1,25 @@
+Stadium Privacy Policy
+
+Effective date: 21 September 2026
+
+Stadium is a single-player club stadium simulator published by the app owner ("we"). This policy explains how the app handles information.
+
+No account, advertising, or analytics
+
+Stadium does not require an account. It does not display ads, use advertising IDs, run analytics or tracking, or include third-party SDKs for advertising, analytics, tracking, networking, or cloud storage. The open-source Flutter packages used for local UI, storage, navigation, formatting, and bundled audio run on the device and do not transmit your data.
+
+Information stored on your device
+
+The app stores your game progress, settings, and onboarding status in Stadium's private application storage on your Android device. This data is used only to restore the game and your preferences. It is not sent to us, a server, or a cloud storage service. Stadium has no network feature and does not collect personal information through the app. Sound effects are bundled with the app and are played locally.
+
+Deletion and retention
+
+Because game data is kept on the device, you can remove it by clearing Stadium's app data or uninstalling the app. Uninstalling deletes the app's private storage according to Android's normal app-data rules. We do not retain a copy of your game data.
+
+Contact
+
+For privacy questions, contact the app owner at [OWNER_EMAIL]. If you choose to contact us, we will receive the information you include in your message and use it to respond to your request.
+
+Changes
+
+If the app's data practices change, we will update this policy and its effective date before the change is released.
